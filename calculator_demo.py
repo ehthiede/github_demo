@@ -8,6 +8,9 @@ def add_two_numbers(a, b):
 def subtract_two_numbers(a, b):
     return a - a
 
+def divide_two_numbers(a, b):
+    return a / b
+
 
 def main():
     result = add_two_numbers(3, 5)
