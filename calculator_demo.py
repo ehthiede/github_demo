@@ -11,6 +11,8 @@ def subtract_two_numbers(a, b):
 def divide_two_numbers(a, b):
     return a / b
 
+def exponentiation(a, b):
+    return a**b
 
 def main():
     result = add_two_numbers(3, 5)
